@@ -22,7 +22,7 @@
 
 ## Crawler.js
 
-- DB Configuration described here : 
+- DB Configuration described here : </br>
 ![](images/gabDB.png)</br>
 [](https://imgur.com/C7tYpAk)
 
