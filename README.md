@@ -58,4 +58,4 @@ const userAuth = {
 - Run server/gabGrabServer.js to enable the group fetching.
 - Navigate to Front/gab-groups and use npm start to run the react front.
 </br>
-<img src="images/reactGabGroupsScreen.png" width="800"/></br>
+<img src="images/reactGabGroupsScreen.png" width="900"/></br>
