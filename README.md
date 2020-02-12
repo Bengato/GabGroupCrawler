@@ -23,6 +23,7 @@
 ## Crawler.js
 
 - DB Configuration described here : 
+![alt text](https://imgur.com/cnKR3IL)
 [](https://imgur.com/cnKR3IL)
 [](https://imgur.com/C7tYpAk)
 
