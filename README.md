@@ -15,6 +15,7 @@
 
 ## Crawler.py
 
+- Use npm istall to get required node modules.
 - Enter your details in config.ini.un for validation.
 - Index in config is set to 1 so it starts from the 1st group.
 - Run py crawler.py.
@@ -24,7 +25,7 @@
 
 - DB Configuration described here : </br>
 ![](images/gabDB.png)</br>
-[](https://imgur.com/C7tYpAk)
+![](images/dbGroups.png)</br>
 
 
 - Enter your details in crawler.js to userAuth
@@ -56,5 +57,5 @@ const userAuth = {
 
 - Run server/gabGrabServer.js to enable the group fetching.
 - Navigate to Front/gab-groups and use npm start to run the react front.
-
-[(https://imgur.com/VCiTSp2)]()
+</br>
+![](images/reactGabGroupsScreen.png)</br>
