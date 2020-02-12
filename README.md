@@ -23,9 +23,8 @@
 ## Crawler.js
 
 - DB Configuration described here : 
-
-[(https://imgur.com/kue1HOo)]()
-[(https://imgur.com/cJkWE6e)]()
+[](https://i.imgur.com/cnKR3IL.png)
+[](https://imgur.com/C7tYpAk)
 
 
 - Enter your details in crawler.js to userAuth
@@ -58,4 +57,4 @@ const userAuth = {
 - Run server/gabGrabServer.js to enable the group fetching.
 - Navigate to Front/gab-groups and use npm start to run the react front.
 
-[(https://imgur.com/RpZPeUA)]()
+[(https://imgur.com/VCiTSp2)]()
