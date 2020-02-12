@@ -24,7 +24,7 @@
 ## Crawler.js
 
 - DB Configuration described here : </br>
-<img src="images/gabDB.png" width="900"/></br>
+<img src="images/gabDB.png" width="200"/></br>
 <img src="images/dbGroups.png" width="900"/></br>
 
 
