@@ -24,8 +24,8 @@
 ## Crawler.js
 
 - DB Configuration described here : </br>
-![](images/gabDB.png)</br>
-![](images/dbGroups.png)</br>
+<img src="images/gabDB.png" width="900"/></br>
+<img src="images/dbGroups.png" width="900"/></br>
 
 
 - Enter your details in crawler.js to userAuth
