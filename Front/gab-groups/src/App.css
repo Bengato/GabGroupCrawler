@@ -1,0 +1,46 @@
+.App-header {
+	background-color: #1d1d1d;
+	width: 100%;
+	align-items: left;
+	font-size: calc(6px + 1vmin);
+	color: rgb(184, 184, 184);
+}
+body {
+	background-color: #1d1d1d;
+}
+table {
+	width: 100%;
+}
+td {
+	padding: 1vw;
+	word-break: keep-all;
+	border-bottom: 1px solid rgb(114, 114, 114);
+}
+th {
+	text-align: center;
+	font-size: calc(10px + 1vmin);
+	padding: 1vw;
+	color: rgba(251, 252, 253, 0.637);
+}
+tr.Groups-header {
+	width: 100%;
+}
+
+.Groups-header {
+	border-bottom: 5px solid #2ece49;
+	margin-bottom: 50px;
+	background: rgb(36, 36, 36);
+}
+.App-link {
+	color: #2ece49;
+}
+.Inner-td {
+	border-bottom: 0px;
+}
+.Inner-td.data {
+	color: rgb(131, 131, 131);
+}
+img {
+	height: 10vh;
+	width: 15vh;
+}
