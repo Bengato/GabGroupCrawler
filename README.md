@@ -23,8 +23,8 @@
 ## Crawler.js
 
 - DB Configuration described here : 
-[(https://imgur.com/cnKR3IL)]()
-[(https://imgur.com/C7tYpAk)]()
+[](https://imgur.com/cnKR3IL)
+[](https://imgur.com/C7tYpAk)
 
 
 - Enter your details in crawler.js to userAuth
